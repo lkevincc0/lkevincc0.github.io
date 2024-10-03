@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>攻略 - Tag - liu&#39;s blog</title>
+        <link>http://localhost:1313/tags/%E6%94%BB%E7%95%A5/</link>
+        <description>攻略 - Tag - liu&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%94%BB%E7%95%A5/" rel="self" type="application/rss+xml" /><item>
+    <title>MarkDown 手册✔︎</title>
+    <link>http://localhost:1313/posts/1-markdown-dictionary.zh/</link>
+    <pubDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</pubDate>
+    <author>Liu</author>
+    <guid>http://localhost:1313/posts/1-markdown-dictionary.zh/</guid>
+    <description><![CDATA[<p>这是一个完整的 Markdown 示例文件，展示了所有常见的 Markdown 语法用法，✍️。</p>
+<h2 id="1-标题">1. 标题</h2>
+<p>你可以使用不同数量的 <code>#</code> 来表示标题的层级：</p>
+<h1 id="h1-标题">H1 标题</h1>
+<h2 id="h2-标题">H2 标题</h2>
+<h3 id="h3-标题">H3 标题</h3>
+<h4 id="h4-标题">H4 标题</h4>
+<h5 id="h5-标题">H5 标题</h5>
+<h6 id="h6-标题">H6 标题</h6>
+<hr>
+<h2 id="2-强调文本">2. 强调文本</h2>
+<p><strong>加粗</strong> 使用两个星号 <code>**</code> 包裹文本。</p>]]></description>
+</item>
+</channel>
+</rss>
