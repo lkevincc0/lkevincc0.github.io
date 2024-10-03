@@ -2,7 +2,20 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://lkevincc0.github.io/zh-cn/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/tags/guide/</loc><lastmod>2024-10-03T18:09:42&#43;10:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://lkevincc0.github.io/tags/guide/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://lkevincc0.github.io/fr/tags/guide/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://lkevincc0.github.io/zh-cn/tags/guide/"
+                    /></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/</loc><lastmod>2024-10-03T18:09:42&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lkevincc0.github.io/"
@@ -15,25 +28,20 @@
                     hreflang="zh-cn"
                     href="https://lkevincc0.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://lkevincc0.github.io/posts/1-markdown-dictionary/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/"
-                    /></url><url>
-            <loc>https://lkevincc0.github.io/zh-cn/posts/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/posts/</loc><lastmod>2024-10-03T18:09:42&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lkevincc0.github.io/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://lkevincc0.github.io/fr/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://lkevincc0.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://lkevincc0.github.io/zh-cn/tags/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/tags/</loc><lastmod>2024-10-03T18:09:42&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lkevincc0.github.io/tags/"
@@ -45,6 +53,28 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://lkevincc0.github.io/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/posts/2-app1-publish/</loc><lastmod>2024-10-03T18:09:42&#43;10:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://lkevincc0.github.io/posts/2-app1-publish/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://lkevincc0.github.io/fr/posts/2-app1-publish/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://lkevincc0.github.io/zh-cn/posts/2-app1-publish/"
+                    /></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://lkevincc0.github.io/posts/1-markdown-dictionary/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/"
                     /></url><url>
             <loc>https://lkevincc0.github.io/zh-cn/tags/%E6%94%BB%E7%95%A5/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod></url><url>
             <loc>https://lkevincc0.github.io/zh-cn/categories/</loc><xhtml:link

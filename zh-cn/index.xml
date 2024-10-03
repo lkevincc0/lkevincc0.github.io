@@ -3,9 +3,24 @@
         <title>liu的博客</title>
         <link>https://lkevincc0.github.io/zh-cn/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 03 Oct 2024 18:09:42 &#43;1000</lastBuildDate>
             <atom:link href="https://lkevincc0.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>有趣的应用</title>
+    <link>https://lkevincc0.github.io/zh-cn/posts/2-app1-publish/</link>
+    <pubDate>Thu, 03 Oct 2024 18:09:42 &#43;1000</pubDate>
+    <author>Liu</author>
+    <guid>https://lkevincc0.github.io/zh-cn/posts/2-app1-publish/</guid>
+    <description><![CDATA[<h2 id="有趣的应用">有趣的应用</h2>
+<p>欢迎访问我们的应用！点击下方链接了解更多内容：</p>
+<p><a href="https://app.bouguereau.xyz" target="_blank" rel="noopener noreffer ">点链接</a></p>
+<h2 id="有趣的开源项目">有趣的开源项目</h2>
+<h3 id="更新记录">更新记录</h3>
+<ul>
+<li><strong>2024-10-03</strong>：初次搭建网页，添加<a href="https://bouguereau.xyz/app1" target="_blank" rel="noopener noreffer ">逆转!</a>。</li>
+</ul>]]></description>
+</item>
+<item>
     <title>MarkDown 手册✔︎</title>
     <link>https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/</link>
     <pubDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</pubDate>

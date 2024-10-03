@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Blog de liu</title>
-        <link>https://lkevincc0.github.io/fr/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 03 Oct 2024 18:09:42 &#43;1000</lastBuildDate>
-            <atom:link href="https://lkevincc0.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>Guide - Balise - Blog de liu</title>
+        <link>https://lkevincc0.github.io/fr/tags/guide/</link>
+        <description>Guide - Balise - Blog de liu</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 03 Oct 2024 18:09:42 &#43;1000</lastBuildDate><atom:link href="https://lkevincc0.github.io/fr/tags/guide/" rel="self" type="application/rss+xml" /><item>
     <title>applications amusantes</title>
     <link>https://lkevincc0.github.io/fr/posts/2-app1-publish/</link>
     <pubDate>Thu, 03 Oct 2024 18:09:42 &#43;1000</pubDate>
