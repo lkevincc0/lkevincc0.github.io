@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Balise - Blog de liu</title>
-        <link>http://localhost:1313/fr/tags/</link>
+        <link>https://lkevincc0.github.io/fr/tags/</link>
         <description>Tags - Balise - Blog de liu</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="http://localhost:1313/fr/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://lkevincc0.github.io/fr/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

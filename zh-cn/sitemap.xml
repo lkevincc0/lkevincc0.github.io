@@ -2,42 +2,61 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/zh-cn/categories/</loc><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/categories/"
+                        href="https://lkevincc0.github.io/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/fr/categories/"
+                        href="https://lkevincc0.github.io/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:1313/zh-cn/categories/"
+                    href="https://lkevincc0.github.io/zh-cn/"
                     /></url><url>
-            <loc>http://localhost:1313/zh-cn/</loc><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://localhost:1313/fr/"
+                        href="https://lkevincc0.github.io/posts/1-markdown-dictionary/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:1313/zh-cn/"
+                    href="https://lkevincc0.github.io/zh-cn/posts/1-markdown-dictionary/"
                     /></url><url>
-            <loc>http://localhost:1313/zh-cn/tags/</loc><xhtml:link
+            <loc>https://lkevincc0.github.io/zh-cn/posts/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://localhost:1313/fr/tags/"
+                        href="https://lkevincc0.github.io/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:1313/zh-cn/tags/"
+                    href="https://lkevincc0.github.io/zh-cn/posts/"
+                    /></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/tags/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://lkevincc0.github.io/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://lkevincc0.github.io/fr/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://lkevincc0.github.io/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/tags/%E6%94%BB%E7%95%A5/</loc><lastmod>2024-10-02T14:12:46&#43;10:00</lastmod></url><url>
+            <loc>https://lkevincc0.github.io/zh-cn/categories/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://lkevincc0.github.io/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://lkevincc0.github.io/fr/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://lkevincc0.github.io/zh-cn/categories/"
                     /></url></urlset>

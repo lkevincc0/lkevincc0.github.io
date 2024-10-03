@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Guide - Tag - liu&#39;s blog</title>
-        <link>http://localhost:1313/tags/guide/</link>
+        <link>https://lkevincc0.github.io/tags/guide/</link>
         <description>Guide - Tag - liu&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</lastBuildDate><atom:link href="http://localhost:1313/tags/guide/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</lastBuildDate><atom:link href="https://lkevincc0.github.io/tags/guide/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown Cheat Sheet✔︎</title>
-    <link>http://localhost:1313/posts/1-markdown-dictionary/</link>
+    <link>https://lkevincc0.github.io/posts/1-markdown-dictionary/</link>
     <pubDate>Wed, 02 Oct 2024 14:12:46 &#43;1000</pubDate>
     <author>Liu</author>
-    <guid>http://localhost:1313/posts/1-markdown-dictionary/</guid>
+    <guid>https://lkevincc0.github.io/posts/1-markdown-dictionary/</guid>
     <description><![CDATA[<p>This is a complete Markdown example file showcasing all common Markdown syntax usages, ✍️.</p>
 <h2 id="1-headings">1. Headings</h2>
 <p>You can use different numbers of <code>#</code> to indicate the level of headings:</p>
